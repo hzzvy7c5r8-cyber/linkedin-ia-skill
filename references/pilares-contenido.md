@@ -1,143 +1,162 @@
-# Pilares de Contenido — IA, Automatización y Marketing Digital
+# Pilares de Contenido — Framework Universal para LinkedIn
 
-Sistema de pilares para perfiles orientados a inteligencia artificial,
-automatización de procesos y marketing digital. Diseñado para el mercado español.
+Sistema de 5 pilares adaptable a cualquier sector y perfil profesional.
+Funciona igual para un médico, un abogado, un ingeniero, un comercial o un directivo.
 
 ---
 
-## Pilar 1: Inteligencia Artificial Aplicada
+## Cómo usar este framework
 
-**Objetivo:** Posicionarte como alguien que entiende la IA de forma práctica, no teórica.
+Antes de aplicar los pilares, identifica dos cosas:
+1. **¿Qué quiere conseguir esta persona en LinkedIn?** (empleo, clientes, visibilidad, autoridad, networking)
+2. **¿A quién le habla?** (colegas del sector, clientes, reclutadores, líderes de industria)
 
-**Temas:**
-- Cómo usar IA para resolver problemas concretos (ahorro de tiempo, errores, escala)
-- Comparativas de herramientas: ChatGPT vs Claude vs Gemini en casos reales
-- Errores comunes al usar IA (los que comete la mayoría)
-- Prompts útiles para situaciones específicas
-- Reflexiones sobre el futuro del trabajo con IA
-- IA para pequeños negocios y autónomos
-- Lo que la IA NO puede hacer (y por qué importa saberlo)
-- Casos de uso reales por sector: salud, inmobiliaria, asesorías, academias
+Los 5 pilares son universales. Lo que cambia es el contenido dentro de cada uno.
 
-**Formatos que funcionan mejor:**
-- Carruseles con ejemplos antes/después
-- Posts cortos con un prompt o truco concreto
-- Reflexiones honestas sobre limitaciones
+---
+
+## Pilar 1: Conocimiento y Expertise
+
+**Objetivo:** Demostrar que sabes de lo que hablas. Posicionarte como referencia en tu campo.
+
+**Tipo de contenido:**
+- Explicar un concepto de tu sector de forma sencilla
+- Errores comunes que comete la gente en tu área
+- Tendencias o cambios relevantes en tu industria
+- Tu opinión fundamentada sobre algo de actualidad en tu sector
+- Guías prácticas o paso a paso de algo que conoces bien
+- Desmitificar creencias erróneas sobre tu profesión
+
+**Ejemplos por sector:**
+- Médico: "Por qué el colesterol no es tan simple como te han explicado"
+- Abogado: "3 cláusulas que deberías revisar antes de firmar cualquier contrato"
+- Comercial: "Por qué el 80% de los seguimientos de ventas se hacen en el peor momento"
+- Diseñador: "El error de diseño más caro que cometen las empresas pequeñas"
+- RRHH: "Lo que nadie te dice sobre cómo funciona realmente un proceso de selección"
 
 **Frecuencia recomendada:** 1-2 veces por semana
 
 ---
 
-## Pilar 2: Automatizaciones
+## Pilar 2: Experiencia Personal y Aprendizajes
 
-**Objetivo:** Demostrar capacidad técnica de forma accesible. Que quien te lea entienda
-el valor sin necesitar conocimientos técnicos.
+**Objetivo:** Humanizar el perfil. Conectar emocionalmente. Generar confianza a través de la autenticidad.
 
-**Temas:**
-- Automatizaciones para sectores específicos (clínicas dentales, inmobiliarias, asesorías, academias)
-- n8n vs Make: cuándo usar cada uno
-- Agentes de IA: qué son y qué pueden hacer por un negocio
-- Automatizaciones que cualquier empresa debería tener
-- Antes y después de automatizar un proceso (con números)
-- Errores al crear tu primera automatización
-- Workflows concretos con herramientas nombradas
-- Integración de IA dentro de automatizaciones (Claude, OpenAI API)
-- Caso práctico: cómo construí [X automatización]
+**Tipo de contenido:**
+- Algo que aprendiste de un fracaso o error profesional
+- Un momento de cambio en tu carrera y qué lo provocó
+- Lo que nadie te enseñó en la universidad sobre tu trabajo real
+- Un proyecto o situación difícil y cómo lo resolviste
+- Cambios de perspectiva: algo que pensabas y ya no piensas
+- Lo que harías diferente si empezaras de cero
 
-**Formatos que funcionan mejor:**
-- Carruseles explicando el flujo paso a paso
-- Posts con el "antes vs después" en números
-- Showcases de proyectos propios
+**Lo que hace que este pilar funcione:**
+- Honestidad sobre el proceso, no solo sobre los logros
+- Detalles concretos (nombres, fechas, números)
+- Emociones reales, no positividad forzada
+- El aprendizaje tiene que ser genuinamente útil para quien lo lee
 
 **Frecuencia recomendada:** 1 vez por semana
 
 ---
 
-## Pilar 3: Marketing Digital
+## Pilar 3: Perspectiva y Opinión
 
-**Objetivo:** Mostrar que entiendes cómo combinar tecnología y marketing para generar resultados.
+**Objetivo:** Tener un punto de vista propio. Diferenciarse de los perfiles que solo repiten lo que dice todo el mundo.
 
-**Temas:**
-- Cómo mejorar la presencia digital de un negocio local
-- Errores que cometen las empresas en redes sociales
-- Cómo crear contenido con intención (no solo por publicar)
-- Combinar IA y marketing: herramientas, flujos, resultados
-- Estrategia de contenido para LinkedIn
-- SEO básico que todo profesional debería conocer
-- Email marketing + automatización
-- Analytics: qué métricas importan realmente
-- Cómo conseguir clientes con contenido (sin anuncios)
+**Tipo de contenido:**
+- Una opinión sobre algo de actualidad en tu sector con argumentos
+- Una posición contraria a la narrativa dominante en tu industria
+- Lo que crees que está mal entendido en tu campo
+- Una predicción fundamentada sobre hacia dónde va tu sector
+- Por qué estás en desacuerdo con una práctica habitual
+- Una reflexión sobre algo que cambiará en tu profesión
 
-**Formatos que funcionan mejor:**
-- Posts medios con frameworks o pasos concretos
-- Carruseles con estrategias aplicables
-- Reflexiones sobre lo que funciona y lo que no
-
-**Frecuencia recomendada:** 1 vez por semana
-
----
-
-## Pilar 4: Aprendizaje Personal y Evolución
-
-**Objetivo:** Humanizar el perfil. Mostrar que estás en proceso, que aprendes, que eres real.
-Este pilar conecta emocionalmente y genera los comentarios más genuinos.
-
-**Temas:**
-- Qué estoy aprendiendo esta semana/mes
-- Errores que cometí y qué cambié
-- Reflexiones sobre estudiar una carrera técnica + desarrollar marca personal
-- Cómo combinar estudios, proyectos y LinkedIn sin quemarse
-- Cambios de mentalidad que me han cambiado la forma de trabajar
-- Lo que me sorprendió de [herramienta/concepto]
-- Recursos que me han aportado más (libros, cursos, personas)
-- Honest post: esto no me salió bien
-
-**Formatos que funcionan mejor:**
-- Posts cortos y directos
-- Reflexiones personales sin estructura forzada
-- Honestidad sobre el proceso
+**Reglas para este pilar:**
+- Tener una posición real, no un "por un lado… por otro lado"
+- Argumentar con datos, experiencia o lógica, no con generalidades
+- Aceptar que no todo el mundo estará de acuerdo — eso está bien
+- No opinar sobre política, religión u otros temas no profesionales
 
 **Frecuencia recomendada:** 1 vez por semana o cada dos semanas
 
 ---
 
-## Pilar 5: Proyectos y Casos Prácticos
+## Pilar 4: Proyectos y Resultados
 
-**Objetivo:** Demostrar con hechos lo que dices en los otros pilares.
-Es el pilar que genera más credibilidad y más conversaciones de calidad.
+**Objetivo:** Demostrar con hechos. Es el pilar que más credibilidad genera y más conversaciones de calidad atrae.
 
-**Temas:**
-- Proyectos propios: skills creadas, automatizaciones construidas, sistemas diseñados
-- Prototipos y demos de agentes de IA
-- Análisis de proyectos de terceros que me han llamado la atención
-- Ideas de negocio basadas en IA (con análisis real de viabilidad)
-- Recursos creados y compartidos (gratuitos)
-- Resultados de experimentos: "probé X durante Y semanas, esto pasó"
-- Colaboraciones o trabajos realizados
+**Tipo de contenido:**
+- Un proyecto propio que hayas completado o en el que estés trabajando
+- Un resultado concreto con números: "pasé de X a Y en Z tiempo"
+- Un proceso que mejoró algo: antes/después con datos reales
+- Un trabajo hecho para un cliente (con permiso o en genérico)
+- Una herramienta, método o sistema que hayas desarrollado
+- Un experimento que probaste y los resultados que obtuviste
 
-**Formatos que funcionan mejor:**
-- Posts con capturas o demos cuando sea posible
-- Carruseles explicando cómo se construyó algo
-- Posts que terminan con link al proyecto (en comentarios)
+**Lo que hace que este pilar destaque:**
+- Números reales: porcentajes, tiempo ahorrado, dinero generado, personas impactadas
+- El "cómo" importa tanto como el "qué"
+- La honestidad sobre lo que salió mal es tan valiosa como lo que salió bien
 
-**Frecuencia recomendada:** Cuando tengas algo concreto. No forzar.
+**Frecuencia recomendada:** Cuando tengas algo concreto. No forzar contenido vacío en este pilar.
 
 ---
 
-## Distribución semanal sugerida
+## Pilar 5: Comunidad y Conversación
 
-| Día | Pilar | Formato | Objetivo |
-|-----|-------|---------|----------|
-| Lunes | Aprendizaje Personal | Post corto | Conexión emocional |
-| Miércoles | IA Aplicada o Automatizaciones | Carrusel o post largo | Valor técnico accesible |
-| Viernes | Marketing Digital o Proyecto | Post medio | Autoridad + utilidad |
-| Domingo (opcional) | Libre / Reflexión | Post corto | Humanizar, engagement |
+**Objetivo:** Conectar con tu audiencia. Generar interacción real. Mostrar que estás presente y eres accesible.
+
+**Tipo de contenido:**
+- Una pregunta abierta sobre un dilema real de tu sector
+- Una encuesta con opciones interesantes (no triviales)
+- Reconocer públicamente el trabajo de alguien que admiras
+- Responder a una tendencia o conversación que está ocurriendo en tu industria
+- Compartir un recurso que te ha sido útil (libro, herramienta, persona)
+- Un post de reflexión personal más corto y espontáneo
+
+**Reglas para este pilar:**
+- La pregunta tiene que importarte de verdad, no ser relleno
+- Si alguien comenta, responde siempre en las primeras 2 horas
+- No uses este pilar para hacer autopromoción disfrazada de conversación
+
+**Frecuencia recomendada:** 1-2 veces por semana
+
+---
+
+## Distribución semanal sugerida (3-4 posts/semana)
+
+| Día | Pilar recomendado | Formato | Por qué |
+|-----|-------------------|---------|---------|
+| Lunes | Experiencia Personal | Post corto | Arranque de semana, conexión emocional |
+| Miércoles | Conocimiento / Proyecto | Carrusel o post largo | Mitad de semana, máxima atención profesional |
+| Jueves | Perspectiva / Opinión | Post medio | Alto engagement este día |
+| Viernes o Domingo | Comunidad | Post corto | Cierre de semana, conversación |
+
+Para 2 posts/semana: Miércoles (Conocimiento) + Lunes (Experiencia Personal).
 
 ---
 
 ## Reglas para mantener el equilibrio
 
-- No más de 2 posts técnicos seguidos sin uno más personal.
-- Alterna formatos: si el anterior fue carrusel, el siguiente que sea texto puro.
-- Si no tienes nada genuino que decir ese día, no publiques. Mejor menos y mejor.
-- El pilar de proyectos es el más escaso y el más valioso. No lo infles con ideas sin desarrollar.
+- No más de 2 posts técnicos seguidos sin uno más personal o conversacional
+- Alterna formatos: si el anterior fue carrusel, el siguiente que sea texto
+- El Pilar 4 es el más escaso y el más valioso. No lo infles con ideas sin desarrollar
+- Si no tienes nada genuino que decir ese día, no publiques
+- Cualquier pilar funciona en cualquier sector. Lo que cambia es el tema, no la estructura
+
+---
+
+## Cómo adaptar los pilares según el objetivo
+
+**Busca empleo:**
+Más peso en Pilar 2 (experiencia) y Pilar 4 (proyectos demostrables). El Pilar 1 prueba que sabe lo que hace.
+
+**Busca clientes:**
+Más peso en Pilar 4 (casos de éxito) y Pilar 1 (expertise). El Pilar 5 construye relaciones antes de vender.
+
+**Busca autoridad y visibilidad:**
+Más peso en Pilar 3 (opinión diferenciada) y Pilar 1 (conocimiento profundo).
+
+**Fase inicial (menos de 500 conexiones):**
+Consistencia en Pilares 1 y 2. El Pilar 5 ayuda a crecer la red más rápido.
