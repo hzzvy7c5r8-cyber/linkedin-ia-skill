@@ -122,7 +122,10 @@ linkedin-ia-skill/
 │   ├── anti-ia-espanol.md               ← Detector y corrector de texto artificial
 │   ├── pilares-contenido.md             ← 5 pilares adaptables a cualquier sector
 │   ├── formatos-linkedin.md             ← Cuándo y cómo usar cada formato
-│   └── benchmarks-mercado-espanol.md    ← Métricas reales del mercado español
+│   ├── benchmarks-mercado-espanol.md    ← Métricas reales del mercado español
+│   ├── algoritmo-linkedin.md            ← Cómo funciona el algoritmo (2025-2026)
+│   ├── seo-linkedin.md                  ← SEO del perfil: zonas, keywords, checklist
+│   └── ejemplos-por-sector.md           ← Posts completos para 10 sectores
 └── README.md
 ```
 

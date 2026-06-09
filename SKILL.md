@@ -1,7 +1,7 @@
 ---
 name: linkedin-pro-es
 description: La skill definitiva de LinkedIn en español. Ayuda a cualquier profesional — médico, abogado, ingeniero, comercial, diseñador, HR, financiero, docente o cualquier otro sector — a crear contenido de calidad, optimizar su perfil y construir una marca personal sólida.
-version: 2.0.0
+version: 3.0.0
 author: hzzvy7c5r8-cyber
 tags: [linkedin, marca-personal, contenido, networking, perfil, espanol, copywriting, estrategia, profesional]
 triggers: [post de linkedin, publicación de linkedin, carrusel, contenido para linkedin, hook, networking, perfil de linkedin, acerca de linkedin, titular linkedin, estrategia de contenido, humanizar texto, auditar post, plan semanal, mensaje para conectar, comentario linkedin, linkedin, marca personal, crecer en linkedin]
@@ -226,8 +226,11 @@ Si el usuario no da contexto, infiere lo que puedas del tema y genera igualmente
 
 ## Referencias incluidas
 
-- **referencias/hooks-espanol.md** — 10 fórmulas de hook con ejemplos para cualquier sector
-- **referencias/anti-ia-espanol.md** — Vocabulario prohibido y estructuras artificiales a eliminar
-- **referencias/pilares-contenido.md** — Framework de 5 pilares adaptable a cualquier profesional
-- **referencias/formatos-linkedin.md** — Cuándo usar cada formato, longitudes y horarios óptimos
-- **referencias/benchmarks-mercado-espanol.md** — Métricas reales y expectativas del mercado español
+- **references/hooks-espanol.md** — 10 fórmulas de hook con ejemplos para cualquier sector
+- **references/anti-ia-espanol.md** — Vocabulario prohibido y estructuras artificiales a eliminar
+- **references/pilares-contenido.md** — Framework de 5 pilares adaptable a cualquier profesional
+- **references/formatos-linkedin.md** — Cuándo usar cada formato, longitudes y horarios óptimos
+- **references/benchmarks-mercado-espanol.md** — Métricas reales y expectativas del mercado español
+- **references/algoritmo-linkedin.md** — Cómo funciona el algoritmo: fases, engagement, formatos, horarios, Creator Mode
+- **references/seo-linkedin.md** — SEO del perfil: zonas de indexación, palabras clave, URL, checklist completo
+- **references/ejemplos-por-sector.md** — Posts completos de referencia para 10 sectores (médico, abogado, comercial, RRHH, ingeniero, diseñador, financiero, docente, directivo, recién graduado)
